@@ -9,17 +9,6 @@
 
 ---
 
-## 📁 Project Structure
-
-📦 House-Price-Prediction
-    -├── house_price_prediction_.py
-    -├── README.md
-    -├── requirements.txt
-    -└── screenshots/
-    -└── actual_vs_predicted.png
-
----
-
 ## 📊 Dataset Description
 
 The dataset contains 506 observations with 14 attributes:
